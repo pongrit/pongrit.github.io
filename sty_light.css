@@ -18,4 +18,4 @@ a:hover {
 .cmdName { color: #28a745; font-weight: bold; font-family: 'Roboto Mono', monospace; }
 .cmdHelp { color: #1d2129; }
 #tBody tr {   }
-#tBody tr:hover { background:  linear-gradient(rgb(255,255,255),rgb(220,220,220)) !important; }
+#tBody tr:hover { background:  linear-gradient(rgb(255,255,255),rgb(53, 194, 236)) !important; }
