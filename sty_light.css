@@ -1,0 +1,21 @@
+
+
+
+html {
+    background: #fff;
+    color: #212529;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+.cmdName { color: #28a745; font-weight: bold; font-family: 'Roboto Mono', monospace; }
+.cmdHelp { color: #1d2129; }
+#tBody tr {   }
+#tBody tr:hover { background:  linear-gradient(rgb(255,255,255),rgb(220,220,220)) !important; }
