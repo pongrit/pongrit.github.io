@@ -169,6 +169,7 @@ function BuildCounts()
 
 function OnInputChange()
 {
+    document.getElementById("tBody").innerHTML = ""; /*CLEAR*/
  var value = document.forms[0]["input1"].value;
  Rebuild(value);
 }
