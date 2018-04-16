@@ -129,7 +129,10 @@ function RebuildIncremental(UpdateCount)
      
     help = help.replace(/\n/g, "<br>");
      
+    aa.innerHTML += "<tr><td class='cmdName'><a href=\"https://www.google.co.th/search?q=%28ue4+OR+unreal+engine%29+" + cvars[ReBuildIncremental_index].name + "&ie=UTF-8\"target=\"_blank\"title=\"" + cvars[ReBuildIncremental_index].name + "\">" + cvars[ReBuildIncremental_index].name + "</a></td><td class='cmdHelp'>" + help + "</td></tr>";
+    /*
     aa.innerHTML += "<tr><td class='cmdName' >" + cvars[ReBuildIncremental_index].name + "</td><td class='cmdHelp'>" + help + "</td></tr>";
+    */
   }
    
   ++ReBuildIncremental_index;

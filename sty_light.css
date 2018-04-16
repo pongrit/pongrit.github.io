@@ -15,7 +15,7 @@ a:hover {
     color: #0056b3;
     text-decoration: underline;
 }
-.cmdName { color: #28a745; font-weight: bold; font-family: 'Roboto Mono', monospace; }
+.cmdName, .cmdName a { color: #28a745; /*font-weight: bold*/; font-family: 'Roboto Mono', monospace; }
 .cmdHelp { color: #1d2129; }
 #tBody tr {   }
 #tBody tr:hover { background:  linear-gradient(rgb(255,255,255),rgb(210, 243, 253)) !important; }
