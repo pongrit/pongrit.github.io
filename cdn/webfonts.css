@@ -1,9 +1,9 @@
 @font-face {
 	font-family:'CS ChatThaiUI';
-	src: url('webfonts/SChatThaiUI.eot');
-	src: url('webfonts/CSChatThaiUI.eot?#iefix') format('embedded-opentype'),
-		 url('webfonts/CSChatThaiUI.woff2') format('woff2'),
-		 url('webfonts/CSChatThaiUI.woff') format('woff'),	
-		 url('webfonts/CSChatThaiUI.ttf') format('truetype');
+	src: url('CSChatThaiUI.eot');
+	src: url('CSChatThaiUI.eot?#iefix') format('embedded-opentype'),
+		 url('CSChatThaiUI.woff2') format('woff2'),
+		 url('CSChatThaiUI.woff') format('woff'),	
+		 url('CSChatThaiUI.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;}
